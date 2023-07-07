@@ -9,7 +9,7 @@
     {
       "id": 2,
       "title": "Big Box Full",
-      "content": "3 Piezas de Pollo, 4 Nuggets de Pollo o Hot wings, 1 Papa Personal, 1 Ensalada Regular y 1 Bebida Personal"
+      "content": "3 Piezas de Pollo, 4 Nuggets de Pollo o Hot wings, 1 Papa Personal, 1 Ensalada Regular y 1 Bebida Personal",
       "precio" : 35.9
     },
     {
@@ -20,7 +20,7 @@
     },
     {
       "id": 4,
-      "title": "Mega Promo - 6 Piezas"
+      "title": "Mega Promo - 6 Piezas",
       "content": "6 Piezas de Pollo y 1 Papa Familiar",
       "precio": 41.9
     }
