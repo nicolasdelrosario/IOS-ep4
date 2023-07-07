@@ -1,0 +1,158 @@
+{
+  "kfc": [
+    {
+      "id": 1,
+      "title": "Mega Promo - 10 Piezas",
+      "content" : "10 Piezas de Pollo, 1 Papas Familiar y 1 Bebida 1.5L",
+      "precio" : 66.9
+    },
+    {
+      "id": 2,
+      "title": "Big Box Full",
+      "content": "3 Piezas de Pollo, 4 Nuggets de Pollo o Hot wings, 1 Papa Personal, 1 Ensalada Regular y 1 Bebida Personal"
+      "precio" : 35.9
+    },
+    {
+      "id": 3,
+      "title": "Combo Classic",
+      "content": "2 Piezas de Pollo, 1 Papa Personal y 1 Bebida Personal",
+      "precio" : 35.9
+    },
+    {
+      "id": 4,
+      "title": "Mega Promo - 6 Piezas"
+      "content": "6 Piezas de Pollo y 1 Papa Familiar",
+      "precio": 41.9
+    }
+  ],
+  "starbucks": [
+    {
+      "id": 1,
+      "title": "Americano",
+      "content" : "Café Espresso de cuerpo completo con agua caliente",
+      "precio" : 10
+    },
+    {
+      "id": 2,
+      "title": "Americano Helado",
+      "content" : "Café Espresso fr[io de cuerpo completo",
+      "precio" : 10
+    },
+    {
+      "id": 3,
+      "title": "Mocha Café",
+      "content" : "Café Espresso mezclado con mocha y leche vaporizada",
+      "precio" : 15.5
+    },
+    {
+      "id": 4,
+      "title": "Mocha Café Helado",
+      "content" : "Espresso frío mezclado con mocha y leche, decorado con crema batida",
+      "precio" : 15.5
+    },
+  ],
+  "chillis": [
+    {
+      "id": 1,
+      "title": "A Chiliar de a 3 Premium",
+      "content" : "Llévate 01 Old Timer + 01 Chicken Crispers + Chicken Club Tacos",
+      "precio" : 73.9
+    },
+    {
+      "id": 2,
+      "title": "Ribs & Chicken Platter",
+      "content" : "1 Ribs & Chicken Platter",
+      "precio" : 92
+    },
+    {
+      "id": 3,
+      "title": "Just Bacon Burguer",
+      "content" : "Simplemente un clásico de clásicos, pero al estilo Chili's. jugosa y crocantes tiras de tocino, acompañadas de queso cheddar, garlic aioli, lechuga, tomate, cebolla y pickles.",
+      "precio" : 39
+    },
+    {
+      "id": 4,
+      "title": "Papas Fritas",
+      "content" : "1 porción de 210 gramos de papas fritas",
+      "precio" : 12
+    },
+  ],
+  "pizzahut": [
+    {
+      "id": 1,
+      "title": "Combo XL",
+      "content" : "1 Pizza XL Clásica y 1 Bebida 1 L",
+      "precio" : 74.9
+    },
+    {
+      "id": 2,
+      "title": "Combo Triple Hut Box",
+      "content" : "2 Pizzas grandes, 16 plaitos a la Siliciana y 1 bebida 1 L",
+      "precio" : 76.9
+    },
+        {
+      "id": 3,
+      "title": "Duo Grande",
+      "content" : "2 Pizzas Grandes a un precio especial",
+      "precio" : 61.9
+    },
+        {
+      "id": 4,
+      "title": "Pizza Roll Full Meat",
+      "content" : "Pizza Roll con carne de res, cerdo, jamón, queso y Salsa pizza",
+      "precio" : 15.9
+    },
+  ],
+  "popeyes": [
+    {
+      "id": 1,
+      "title": "7 Piezas Power",
+      "content" : "7 Piezas y 1 Papa Familiar",
+      "precio" : 48.9
+    },
+    {
+      "id": 2,
+      "title": "2x1 Tadi Roll",
+      "content" : "2 combos de 1 Tradi Roll y 1 Papa regular",
+      "precio" : 33.9
+    },
+        {
+      "id": 3,
+      "title": "Festi Familión",
+      "content" : "14 Piezas, 4 Nuggets, 3 Alitas y 1 Papa Súper Familiar",
+      "precio" : 101.9
+    },
+        {
+      "id": 4,
+      "title": "Duo Cajún Power",
+      "content" : "4 Piezas, 4 Alitas, 4 Nuggets, 2 Papas Regulares y 2 Gaseosas 500ml",
+      "precio" : 48.9
+    },
+  ],
+  "mcdonalds": [
+    {
+      "id": 1,
+      "title": "Combo mediano Importante",
+      "content" : "2 piezas de pollo crujiente, 1 papa mediana, 1 gaseosa mediana de 16oz y 4 McNuggets",
+      "precio" : 25.9
+    },
+        {
+      "id": 2,
+      "title": "Promo Cajita",
+      "content" : "1 Cajita Feliz Nuggets",
+      "precio" : 13.9
+    },
+        {
+      "id": 3,
+      "title": "Banquete Extremo x 10 pzas",
+      "content" : "10 piezas de pollo crispy, 10 McNuggets, 4 papas regulares, 4 gaseosa medianas de 16oz",
+      "precio" : 75.9
+    },
+        {
+      "id": 4,
+      "title": "McLover Doble para 2",
+      "content" : "1 hamburguesa Dobre Cuarto de libra, 1 hamburguesa Doble Cuarto de Libra y 2 papas medianas",
+      "precio" : 37.9
+    },
+  ],
+}
